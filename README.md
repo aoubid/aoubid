@@ -1,4 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=000BF7&background=EAFF1400&random=false&width=435&lines=Hi!+My+name+is+Amine;I+am+passionate+about+coding;I+learn+by+doing)](https://git.io/typing-svg)
+
+
+🚀 Full Stack Developer | Passionate about Crafting Digital Solutions
+
+I'm a Full Stack Developer with a love for turning ideas into reality. Equipped with expertise in both front-end and back-end technologies, I specialize in creating seamless, scalable, and user-friendly applications. From designing responsive interfaces to optimizing server-side performance, I thrive in the dynamic world of web development.
+
+
 <!--
 **aoubid/aoubid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
