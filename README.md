@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=000BF7&background=EAFF1400&random=false&width=435&lines=Hi!+My+name+is+Amine;I+am+passionate+about+coding;I+learn+by+doing)](https://git.io/typing-svg)
 
 <!--
 **aoubid/aoubid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
